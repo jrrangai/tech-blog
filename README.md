@@ -6,7 +6,7 @@ https://pokemon-emerald.herokuapp.com/
 ## Github Repository:
 https://github.com/jrrangai/
 
-## GIVEN a CMS-style blog site
+## GIVEN a CMS-style blog site:
 - [x] WHEN I visit the site for the first time
 - [x] THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
 - [x] WHEN I click on the homepage option
