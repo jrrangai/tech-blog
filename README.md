@@ -4,7 +4,7 @@
 https://pokemon-emerald.herokuapp.com/
 
 ## Github Repository:
-https://github.com/jrrangai/tech-blog
+https://github.com/jrrangai/
 
 ## GIVEN a CMS-style blog site
 - [x] WHEN I visit the site for the first time
@@ -39,3 +39,6 @@ https://github.com/jrrangai/tech-blog
 - [x] THEN I am signed out of the site
 - [x] WHEN I am idle on the site for more than a set time
 - [x] THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+![tech-blog](https://user-images.githubusercontent.com/99766422/180513792-3b348b4e-d4ed-4ccb-9845-513304eb48f2.png)
+
